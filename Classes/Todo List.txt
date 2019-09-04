@@ -1,0 +1,13 @@
+Reports  to Create
+1. Purchase receipt
+2. Product  reports (By Quantity, From Supplier, 
+3. Sales Report (by products, graph of sales in a time range)
+about a group of products
+
+1. Add New stock
+2. Creditors paymnets
+3. Debtors Payments
+
+compare products
+
+check for products profits

@@ -1,0 +1,54 @@
+C:\Gilbert\Projects\Shop Manager\bin\Release\Shop Manager.exe.config
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.vbproj.ResolveComReference.cache
+C:\Gilbert\Projects\Shop Manager\bin\Release\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\bin\Release\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\bin\Release\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmEmployeeSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmChangePassword.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmExpenses.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmExpenseType.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmLogin.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmMenus.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProductsCompare.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProductsDiscounts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProfits.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmPrompts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmPromptSettings.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmPurchaseReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmCreditorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmCreditors.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmDebtors.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmDebtorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmLocations.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProductReports.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProductStock.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmAboutBox.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmCategories.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmCustomers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmDbaseConnector.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmEmployees.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmJobs.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProducts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmReportFace.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmReturnedGoods.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmSales.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmSplashScreen.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmStartPage.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmSuppliers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmUserGroups.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmUsers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.Resources.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.vbproj.GenerateResource.Cache
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmShopDetails.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmDebtorsReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.ExpenseReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmWhSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmPriceSetups.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop Manager.vbprojResolveAssemblyReference.cache
+C:\Gilbert\Projects\Shop Manager\obj\Release\Shop_Manager.frmProductStockWithPriceSetup.resources
+C:\Gilbert\Projects\Shop Manager\obj\Release\RdlCompile.cache
+C:\Gilbert\Projects\Shop Manager\obj\Release\RdlCompile.compiled

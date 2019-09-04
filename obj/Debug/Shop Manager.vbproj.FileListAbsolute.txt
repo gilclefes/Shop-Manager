@@ -1,0 +1,175 @@
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.pdb
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.xml
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\GenerateResource.read.1.tlog
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\GenerateResource.write.1.tlog
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+C:\TechM\Personal\Books\GILBERT\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.pdb
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\bin\Debug\Shop Manager.xml
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbprojResolveAssemblyReference.cache
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+E:\TechM\Personal\projects\Shop Manager for AT\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\bin\Debug\Shop Manager.exe.config
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop Manager.exe
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop Manager.xml
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop Manager.pdb
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\bin\Debug\Shop Manager.exe
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\bin\Debug\Shop Manager.pdb
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\bin\Debug\Shop Manager.xml
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+G:\Personal\Projects\Gilbert Desktop\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
+C:\Gilbert\Projects\Shop Manager\bin\Debug\Shop Manager.exe.config
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\bin\Debug\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\bin\Debug\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\bin\Debug\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.vbprojResolveAssemblyReference.cache
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmEmployeeSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmExpenseType.resources
+C:\Gilbert\Projects\Shop Manager\obj\Debug\Shop_Manager.frmExpenses.resources

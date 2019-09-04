@@ -1,0 +1,509 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShopManager
+</name>
+</assembly>
+<members>
+<member name="T:Shop_Manager.Shops_DBDataSet.categoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.creditorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.customersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.JobsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.orderdetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.productsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesdetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.suppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.usergroupsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.userstblDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.company_ordersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_creditorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_debtorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.PurchasesReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryDatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.tblMenuDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsCompareDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpensesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ShopInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProformaDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.categoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.creditorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.customersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.JobsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.orderdetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.productsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesdetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.suppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.usergroupsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.userstblRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.company_ordersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_creditorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_debtorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.PurchasesReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryDatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.tblMenuRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsCompareRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpensesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ShopInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProformaDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.categoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.creditorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.customersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.JobsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.orderdetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.productsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesdetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.suppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.usergroupsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.userstblRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.company_ordersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_creditorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.payment_debtorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.salesReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.PurchasesReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryDatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.tblMenuRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProductsCompareRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpiryInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpensesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ShopInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.DebtorsReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ExpenseReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet.ProformaDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.categoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.creditorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.customersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.DebtorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.JobsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.orderdetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.productsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.salesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.salesdetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.suppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.usergroupsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.userstblTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.company_ordersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.payment_creditorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.payment_debtorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.salesReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ProductsReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.PurchasesReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ExpiryDatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.tblMenuTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ProductsCompareTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ExpiryInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ExpensesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ShopInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.DebtorsReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.Shops_DBDataSetTableAdapters.ExpenseReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Shop_Manager.My.Printer">
+	<summary>
+ Represents the lost VB6 functionality of a Printer object
+ </summary>
+	<remarks>Usage: My.Printer.Print(text)</remarks>
+</member><member name="P:Shop_Manager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Shop_Manager.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Shop_Manager.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

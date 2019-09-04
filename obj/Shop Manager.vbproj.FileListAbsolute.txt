@@ -1,0 +1,137 @@
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.pdb
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.xml
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.purchasesReport.rpt
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.salesReportsCompare.rpt
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsCompare.rpt
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsReports.rpt
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.salesReports.rpt
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+C:\Gilbert\Personal\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
+C:\Gilbert\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.purchasesReport.rpt
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsCompare.rpt
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsReports.rpt
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.salesReports.rpt
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
+C:\Gilbert\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe
+C:\Gilbert\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.pdb
+C:\Gilbert\Projects\Shop Manager\Shop Manager\bin\Debug\Shop Manager.xml
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+C:\Gilbert\Projects\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+B:\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+B:\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+B:\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+B:\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+C:\Gilbert\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe.config
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop Manager.exe
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop Manager.xml
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop Manager.pdb
+C:\Gilbert\Shop Manager\Shop Manager\bin\Debug\Shop Manager.exe
+C:\Gilbert\Shop Manager\Shop Manager\bin\Debug\Shop Manager.pdb
+C:\Gilbert\Shop Manager\Shop Manager\bin\Debug\Shop Manager.xml
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.ResolveComReference.cache
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsCompare.rpt
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.purchasesReport.rpt
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.productsReports.rpt
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.salesReports.rpt
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmChangePassword.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLogin.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmMenus.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsCompare.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductsDiscounts.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProfits.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPrompts.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPromptSettings.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmPurchaseReport.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditorsPayment.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCreditors.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtors.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDebtorsPayment.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmLocations.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductReports.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProductStock.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmAboutBox.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCategories.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmCustomers.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmDbaseConnector.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmEmployees.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmJobs.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmProducts.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReportFace.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmReturnedGoods.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSales.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSalesReport.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSplashScreen.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmStartPage.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmSuppliers.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUserGroups.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.frmUsers.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop_Manager.Resources.resources
+C:\Gilbert\Shop Manager\Shop Manager\obj\Debug\Shop Manager.vbproj.GenerateResource.Cache
